@@ -3,7 +3,7 @@
 This repository contains the data and R scripts used in **Dant et al. (2025)** to evaluate phenotypic and environmental variation in *Centaurea melitensis* (Malta starthistle) across California.  
 The project combines greenhouse trait experiments with large-scale environmental clustering analyses of California census tracts.
 
----
+--- 
 
 ##  Repository Contents
 
