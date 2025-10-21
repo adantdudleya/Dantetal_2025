@@ -44,14 +44,14 @@ Analyses were implemented in R (≥ 4.1) using the following key packages:
 
 ---
 
-##  Citation
+## Citation
 
 If you use this repository, please cite:  
 **Dant, A. et al. (2025).** *Applying a classification approach to categorizing urbanized landscapes in California and invasion by Maltese starthistle.* (Manuscript in preparation).
 
 ---
 
-## 🧭 Contact
+##Contact
 
 For questions or collaboration inquiries, please contact:  
 **Anthony Dant** — [adant@arizona.edu](mailto:adant@arizona.edu)
