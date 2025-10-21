@@ -32,7 +32,7 @@ Analyses were implemented in R (≥ 4.1) using the following key packages:
 
 ---
 
-## 🧾 Abbreviations
+## Abbreviations
 
 | Term | Definition |
 |------|-------------|
