@@ -1,0 +1,223 @@
+Individual Name,Site,Above Ground Biomass,Below Ground Biomass,Root_to_shoot_Ratio,Area,Wet Mass (g),Dry mass,Treatment,Environmental_Zone,Root Diameter,SLA,SLA Date,Collection Month,Location
+Cal Poly 1,Cal Poly,0.74,0.6,0.810810811,2.22,0.059,0.005,Urban,3,1.3,444,2/22/2022,July,Cal Poly SLO
+Cal Poly 10,Cal Poly,0.05,0.76,15.2,2.41,0.063,0.005,Urban,3,1.2,482,2/22/2022,July,Cal Poly SLO
+Cal Poly 11,Cal Poly,0.04,0.56,14,1.2,0.041,0.003,Urban,3,1.3,400,2/22/2022,July,Cal Poly SLO
+Cal Poly 15,Cal Poly,0.09,0.63,7,1.14,0.033,0.005,Urban,3,1.5,228,2/22/2022,July,Cal Poly SLO
+Cal Poly 16,Cal Poly,0.1,0.99,9.9,1.78,0.082,0.006,Urban,3,1.3,296.6666667,2/22/2022,July,Cal Poly SLO
+Cal Poly 17,Cal Poly,0.02,0.15,7.5,1.57,0.039,0.004,Urban,3,0.9,392.5,2/22/2022,July,Cal Poly SLO
+Cal Poly 19,Cal Poly,0.06,0.64,10.66666667,3.18,0.098,0.009,Urban,3,1.5,353.3333333,2/22/2022,July,Cal Poly SLO
+Cal Poly 2,Cal Poly,0.07,1.21,17.28571429,2.92,0.089,0.008,Urban,3,1.1,365,2/22/2022,July,Cal Poly SLO
+Cal Poly 21,Cal Poly,0.19,1.19,6.263157895,4.7,0.087,0.012,Urban,3,1.5,391.6666667,2/22/2022,July,Cal Poly SLO
+Cal Poly 24,Cal Poly,0.03,0.34,11.33333333,1.18,0.032,0.004,Urban,3,1,295,2/22/2022,July,Cal Poly SLO
+Cal Poly 25,Cal Poly,0.07,0.39,5.571428571,2.42,0.078,0.006,Urban,3,1.2,403.3333333,2/22/2022,July,Cal Poly SLO
+Cal Poly 26,Cal Poly,0.06,0.81,13.5,3.21,0.08,0.008,Urban,3,1.2,401.25,2/22/2022,July,Cal Poly SLO
+Cal Poly 29,Cal Poly,0.06,0.25,4.166666667,0.7,0.023,0.003,Urban,3,1.1,233.3333333,2/22/2022,July,Cal Poly SLO
+Cal Poly 6,Cal Poly,0.07,0.56,8,2.8,0.104,0.008,Urban,3,1.3,350,2/22/2022,July,Cal Poly SLO
+Cal Poly 7,Cal Poly,0.04,0.59,14.75,1.29,0.036,0.003,Urban,3,1,430,2/22/2022,July,Cal Poly SLO
+Seaside 4,Seaside,0.02,0.34,17,1.23,0.03,0.003,Urban,3,1.5,410,2/22/2022,July,CSU Monterrey
+Seaside 10,Seaside,0.04,0.15,3.75,1.34,0.033,0.003,Urban,3,1.1,446.6666667,2/22/2022,July,CSU Monterrey
+Seaside 13,Seaside,0.03,0.27,9,1.57,0.056,0.003,Urban,3,1.2,523.3333333,2/22/2022,July,CSU Monterrey
+Seaside 20 s1,Seaside,0.07,0.39,5.571428571,2.63,0.07,0.005,Urban,3,1.3,526,2/22/2022,July,CSU Monterrey
+Seaside 21,Seaside,0.11,1.03,9.363636364,2.04,0.061,0.006,Urban,3,1.9,340,2/22/2022,July,CSU Monterrey
+Seaside 24,Seaside,0.04,0.47,11.75,0.71,0.021,0.001,Urban,3,1.2,710,2/22/2022,July,CSU Monterrey
+Seaside 26,Seaside,0.03,0.38,12.66666667,1.52,0.037,0.003,Urban,3,1.5,506.6666667,2/22/2022,July,CSU Monterrey
+Seaside 27,Seaside,NA,NA,NA,2.87,0.066,0.005,Urban,3,1.4,574,2/22/2022,July,CSU Monterrey
+Seaside 30,Seaside,0.03,0.38,12.66666667,1.4,0.034,0.003,Urban,3,1.4,466.6666667,2/22/2022,July,CSU Monterrey
+Griff 10,Griff,0.22,1.04,4.727272727,1.82,0.06,0.006,Urban,3,1.1,303.3333333,2/21/2022,July,Debbs Park
+Griff 11,Griff,0.13,1.03,7.923076923,2.94,0.102,0.008,Urban,3,1.7,367.5,2/21/2022,July,Debbs Park
+Griff 13,Griff,0.03,1.13,37.66666667,1.87,0.04,0.005,Urban,3,1.4,374,2/21/2022,July,Debbs Park
+Griff 14,Griff,0.05,1.23,24.6,2.18,0.045,0.005,Urban,3,1.5,436,2/21/2022,July,Debbs Park
+Griff 22 s1,Griff,0.14,1.07,7.642857143,2.29,0.052,0.007,Urban,3,1,327.1428571,2/21/2022,July,Debbs Park
+Griff 24,Griff,0.04,0.65,16.25,2.22,0.058,0.007,Urban,3,1.4,317.1428571,2/21/2022,July,Debbs Park
+Griff 25,Griff,0.09,0.87,9.666666667,2.34,0.087,0.007,Urban,3,1.4,334.2857143,2/21/2022,July,Debbs Park
+Griff 29,Griff,0.03,0.1,3.333333333,0.67,0.017,0.003,Urban,3,1.5,223.3333333,2/21/2022,July,Debbs Park
+Griff 30,Griff,0.06,0.58,9.666666667,2.22,0.071,0.006,Urban,3,1.5,370,2/21/2022,July,Debbs Park
+Griff 5,Griff,0.03,0.11,3.666666667,0.96,0.022,0.003,Urban,3,1,320,2/21/2022,July,Debbs Park
+Griff 6,Griff,0.06,1.34,22.33333333,1.14,0.049,0.004,Urban,3,0.9,285,2/21/2022,July,Debbs Park
+Griff 9,Griff,0.11,0.84,7.636363636,1.44,0.057,0.006,Urban,3,1.6,240,2/21/2022,July,Debbs Park
+Don 2,Don,NA,NA,NA,NA,NA,NA,Urban,6,1.5,,,July,Don Edwards
+Don 11,Don,0.03,2.31,77,1.88,0.044,0.005,Urban,6,1.2,376,2/7/2022,July,Don Edwards
+Don 12,Don,0.07,1.73,24.71428571,NA,NA,NA,Urban,6,1.5,,,July,Don Edwards
+Don 15,Don,0.07,1.5,21.42857143,1.46,0.032,0.003,Urban,6,1.3,486.6666667,2/8/2022,July,Don Edwards
+Don 18,Don,0.04,0.99,24.75,2.62,0.086,0.007,Urban,6,1.3,374.2857143,2/8/2022,July,Don Edwards
+Don 20s1,Don,NA,NA,NA,3.07,0.059,0.007,Urban,6,2,438.5714286,2/8/2022,July,Don Edwards
+Don 21,Don,0.15,3.28,21.86666667,1.2,0.029,0.003,Urban,6,1.2,400,2/8/2022,July,Don Edwards
+Don 22,Don,0.02,1.41,70.5,2.07,0.039,0.004,Urban,6,0.9,517.5,2/8/2022,July,Don Edwards
+Don 23,Don,0.09,1.84,20.44444444,2.17,0.047,0.006,Urban,6,1.6,361.6666667,2/7/2022,July,Don Edwards
+Don 28,Don,0.05,0.49,9.8,0.75,0.021,0.002,Urban,6,1.3,375,2/8/2022,July,Don Edwards
+Don 4,Don,0.26,2.46,9.461538462,2.33,0.042,0.005,Urban,6,2.4,466,2/8/2022,July,Don Edwards
+Don 5,Don,0.03,0.64,21.33333333,1.88,0.038,0.005,Urban,6,1.1,376,2/8/2022,July,Don Edwards
+Don 6 s2,Don,0.06,1.21,20.16666667,1.25,0.026,0.002,Urban,6,1.4,625,2/8/2022,July,Don Edwards
+Don 9,Don,0.03,2.34,78,2.74,0.06,0.006,Urban,6,1.4,456.6666667,2/8/2022,July,Don Edwards
+Debb 10,Debb,0.01,1.45,145,3.75,0.1,0.01,Urban,8,1.4,375,2/8/2022,June,Griffith Park
+Debb 12,Debb,0.31,1.43,4.612903226,4.39,0.119,0.014,Urban,8,2.9,313.5714286,2/8/2022,June,Griffith Park
+Debb 14,Debb,0.25,1.57,6.28,2.85,0.06,0.008,Urban,8,2.3,356.25,2/8/2022,June,Griffith Park
+Debb 15,Debb,0.05,2.73,54.6,1.88,0.074,0.006,Urban,8,1.3,313.3333333,2/8/2022,June,Griffith Park
+Debb 18,Debb,0.24,1.05,4.375,3.27,0.103,0.009,Urban,8,NA,363.3333333,2/8/2022,June,Griffith Park
+Debb 21,Debb,0.02,0.47,23.5,1.7,0.043,0.005,Urban,8,1.3,340,2/8/2022,June,Griffith Park
+Debb 22,Debb,0.18,1.18,6.555555556,2.29,0.081,0.004,Urban,8,1.8,572.5,2/8/2022,June,Griffith Park
+Debb 24,Debb,0.05,0.42,8.4,1.67,0.054,0.005,Urban,8,1.6,334,2/22/2022,June,Griffith Park
+Debb 25,Debb,0.07,0.9,12.85714286,3.25,0.14,0.01,Urban,8,1.9,325,2/8/2022,June,Griffith Park
+Debb 27,Debb,0.18,1.35,7.5,4.36,0.108,0.01,Urban,8,2,436,2/8/2022,June,Griffith Park
+Debb 28,Debb,NA,0.91,NA,2.66,0.071,0.008,Urban,8,1.7,332.5,2/8/2022,June,Griffith Park
+Debb 29,Debb,0.01,0.08,8,1.66,0.052,0.004,Urban,8,1,415,2/8/2022,June,Griffith Park
+Debb 30,Debb,0.18,0.28,1.555555556,2.51,0.053,0.005,Urban,8,1.2,502,2/8/2022,June,Griffith Park
+Debb 6,Debb,0.17,0.45,2.647058824,3.12,0.08,0.008,Urban,8,2,390,2/8/2022,June,Griffith Park
+Debb 8,Debb,0.18,0.87,4.833333333,2.1,0.063,0.006,Urban,8,1.3,350,2/8/2022,June,Griffith Park
+Irish 10,Irish,0.14,1.17,8.357142857,2.04,0.041,0.005,Urban,6,1.6,408,2/22/2022,July,Irish Hills
+Irish 11,Irish,NA,NA,NA,1.75,0.04,0.004,Urban,6,1.5,437.5,2/22/2022,July,Irish Hills
+Irish 12,Irish,0.03,0.66,22,2.55,0.062,0.006,Urban,6,1.8,425,2/22/2022,July,Irish Hills
+Irish 13,Irish,0.01,0.08,8,1.27,0.031,0.002,Urban,6,1,635,2/22/2022,July,Irish Hills
+Irish 18,Irish,0.01,0.89,89,1.36,0.037,0.003,Urban,6,1.4,453.3333333,2/22/2022,July,Irish Hills
+Irish 2,Irish,0.04,0.39,9.75,0.61,0.015,0.001,Urban,6,0.8,610,2/22/2022,July,Irish Hills
+Irish 20,Irish,0.16,0.94,5.875,2.85,0.094,0.007,Urban,6,1.5,407.1428571,2/22/2022,July,Irish Hills
+Irish 24,Irish,0.01,0.52,52,2.1,0.049,0.005,Urban,6,1.8,420,2/22/2022,July,Irish Hills
+Irish 3,Irish,0.06,0.58,9.666666667,0.75,0.015,0.001,Urban,6,1.4,750,2/22/2022,July,Irish Hills
+Irish 30,Irish,0.02,0.52,26,1.54,0.047,0.003,Urban,6,1.5,513.3333333,2/22/2022,July,Irish Hills
+Irish 5,Irish,0.05,0.39,7.8,0.94,0.029,0.002,Urban,6,1.5,470,2/22/2022,July,Irish Hills
+Irish 6,Irish,0.09,0.4,4.444444444,1.94,0.042,0.005,Urban,6,1.4,388,2/22/2022,July,Irish Hills
+Irish 9,Irish,0.03,0.52,17.33333333,0.97,0.032,0.002,Urban,6,1.7,485,2/22/2022,July,Irish Hills
+King 10,King,0.04,1.08,27,2.11,0.048,0.005,NonUrban,5,1.1,422,2/22/2022,June,King Gillette Ranch
+King 11,King,0.11,1.11,10.09090909,3.28,0.074,0.009,NonUrban,5,1.7,364.4444444,2/22/2022,June,King Gillette Ranch
+King 12,King,0.17,0.96,5.647058824,3.1,0.083,0.009,NonUrban,5,1.1,344.4444444,2/22/2022,June,King Gillette Ranch
+King 14,King,NA,NA,NA,1.95,0.049,0.005,NonUrban,5,1.4,390,2/22/2022,June,King Gillette Ranch
+King 15,King,0.04,0.8,20,2.77,0.095,0.006,NonUrban,5,1.2,461.6666667,2/22/2022,June,King Gillette Ranch
+King 16,King,NA,NA,NA,2.06,0.057,0.005,NonUrban,5,1.4,412,2/22/2022,June,King Gillette Ranch
+King 5,King,0.04,0.69,17.25,1.27,0.05,0.004,NonUrban,5,1.1,317.5,2/22/2022,June,King Gillette Ranch
+King 6,King,NA,NA,NA,1.57,0.051,0.005,NonUrban,5,1.6,314,2/22/2022,June,King Gillette Ranch
+King 7,King,0.07,0.97,13.85714286,1.96,0.069,0.006,NonUrban,5,1.5,326.6666667,2/22/2022,June,King Gillette Ranch
+King 9,King,NA,NA,NA,2.13,0.047,0.004,NonUrban,5,1.1,532.5,2/22/2022,June,King Gillette Ranch
+Lake 11,Lake,0.13,1.57,12.07692308,1.4,0.059,0.005,Urban,9,1.8,280,2/8/2022,June,Lake Balboa
+Lake 12,Lake,0.2,1.05,5.25,3.27,0.093,0.011,Urban,9,2,297.2727273,2/8/2022,June,Lake Balboa
+Lake 14,Lake,0.15,0.57,3.8,1.58,0.047,0.005,Urban,9,1.6,316,2/22/2022,June,Lake Balboa
+Lake 15,Lake,0.03,0.22,7.333333333,1.47,0.06,0.004,Urban,9,1.2,367.5,2/8/2022,June,Lake Balboa
+Lake 16,Lake,0.04,1.11,27.75,1.9,0.057,0.004,Urban,9,1.5,475,2/8/2022,June,Lake Balboa
+Lake 17,Lake,0.14,0.72,5.142857143,1.62,0.041,0.004,Urban,9,1.5,405,2/8/2022,June,Lake Balboa
+Lake 18,Lake,0.23,1.1,4.782608696,NA,NA,NA,Urban,9,1.9,NA,NA,June,Lake Balboa
+Lake 20,Lake,0.07,2,28.57142857,1.18,0.033,0.004,Urban,9,1,295,2/8/2022,June,Lake Balboa
+Lake 21,Lake,0.06,0.81,13.5,2.12,0.046,0.005,Urban,9,1.8,424,2/8/2022,June,Lake Balboa
+Lake 24,Lake,0.1,1.12,11.2,1.54,0.046,0.005,Urban,9,1.2,308,2/8/2022,June,Lake Balboa
+Lake 27,Lake,0.06,0.37,6.166666667,1.82,0.05,0.005,Urban,9,1.4,364,2/8/2022,June,Lake Balboa
+Lake 3,Lake,0.07,1.72,24.57142857,1.4,0.036,0.003,Urban,9,1.3,466.6666667,2/8/2022,June,Lake Balboa
+Lake 5,Lake,0.09,1.21,13.44444444,1.52,0.051,0.003,Urban,9,1.6,506.6666667,2/8/2022,June,Lake Balboa
+Lake 6,Lake,0.06,0.46,7.666666667,1.86,0.045,0.004,Urban,9,1.5,465,2/8/2022,June,Lake Balboa
+Lake 8,Lake,0.03,0.39,13,NA,NA,NA,Urban,9,1,NA,NA,June,Lake Balboa
+Lake 9,Lake,0.11,1.17,10.63636364,2.76,0.067,0.006,Urban,9,1.2,460,2/8/2022,June,Lake Balboa
+Marco 11,Marco,0.08,0.09,1.125,0.92,0.023,0.002,Urban,3,1.4,460,2/21/2022,June,Marco Foothills
+Marco 12,Marco,0.02,0.55,27.5,1.93,0.052,0.005,Urban,3,1.1,386,2/21/2022,June,Marco Foothills
+Marco 14,Marco,NA,NA,NA,1.72,0.043,0.006,Urban,3,1.2,286.6666667,2/21/2022,June,Marco Foothills
+Marco 15,Marco,0.04,0.21,5.25,1.15,0.032,0.003,Urban,3,2,383.3333333,2/21/2022,June,Marco Foothills
+Marco 17,Marco,0.06,0.72,12,4.62,0.124,0.01,Urban,3,1.2,462,2/21/2022,June,Marco Foothills
+Marco 21,Marco,0.24,1.08,4.5,2.43,0.056,0.009,Urban,3,1.9,270,2/21/2022,June,Marco Foothills
+Marco 22,Marco,0.1,0.44,4.4,1.39,0.029,0.004,Urban,3,1.4,347.5,2/21/2022,June,Marco Foothills
+Marco 23,Marco,0.08,1.06,13.25,4.28,0.144,0.012,Urban,3,1.8,356.6666667,2/21/2022,June,Marco Foothills
+Marco 3,Marco,0.04,0.23,5.75,1.37,0.026,0.004,Urban,3,1.2,342.5,2/21/2022,June,Marco Foothills
+Marco 6,Marco,0.03,0.57,19,1.05,0.063,0.005,Urban,3,1.7,210,2/21/2022,June,Marco Foothills
+Marco 7,Marco,0.01,0.34,34,0.88,0.027,0.002,Urban,3,1.1,440,2/21/2022,June,Marco Foothills
+Marco 8,Marco,0.15,0.71,4.733333333,2.14,0.049,0.005,Urban,3,1.5,428,2/21/2022,June,Marco Foothills
+Marco 9,Marco,0.09,0.75,8.333333333,1.64,0.067,0.007,Urban,3,1.6,234.2857143,2/21/2022,June,Marco Foothills
+Oro 12,Oro,0.02,0.61,30.5,1.91,0.051,0.006,NonUrban,3,1.3,318.3333333,2/21/2022,July,Montana de Oro
+Oro 15,Oro,0.05,1.02,20.4,4.73,0.108,0.012,NonUrban,3,NA,394.1666667,2/21/2022,July,Montana de Oro
+Oro 16,Oro,0.03,0.52,17.33333333,2.22,0.088,0.007,NonUrban,3,1.7,317.1428571,2/21/2022,July,Montana de Oro
+Oro 17,Oro,NA,NA,NA,1.93,0.056,0.006,NonUrban,3,1.2,321.6666667,2/21/2022,July,Montana de Oro
+Oro 19,Oro,0.03,0.71,23.66666667,2.62,0.066,0.007,NonUrban,3,1.2,374.2857143,2/21/2022,July,Montana de Oro
+Oro 29,Oro,0.19,1.25,6.578947368,2.91,0.131,0.009,NonUrban,3,2,323.3333333,2/21/2022,July,Montana de Oro
+Oro 5,Oro,0.1,1.12,11.2,2.14,0.056,0.008,NonUrban,3,1.4,267.5,2/21/2022,July,Montana de Oro
+Oro 6,Oro,0.03,0.74,24.66666667,3,0.078,0.009,NonUrban,3,1.4,333.3333333,2/21/2022,July,Montana de Oro
+Oro 7,Oro,0.06,0.36,6,1.42,0.036,0.005,NonUrban,3,1.4,284,2/21/2022,July,Montana de Oro
+Oro 8,Oro,0.01,0.52,52,2.69,0.079,0.007,NonUrban,3,1.1,384.2857143,2/21/2022,July,Montana de Oro
+Oro 9,Oro,0.13,0.87,6.692307692,1.41,0.037,0.005,NonUrban,3,1.5,282,2/21/2022,July,Montana de Oro
+Pina 1,Pina,0.08,5.58,69.75,2.37,0.055,0.007,NonUrban,4,1.7,338.5714286,2/8/2022,July,Pinnacles National Park
+Pina 10,Pina,0.56,0.51,0.910714286,1.75,0.045,0.004,NonUrban,4,1.7,437.5,2/8/2022,July,Pinnacles National Park
+Pina 13,Pina,0.09,2.74,30.44444444,1.54,0.032,0.005,NonUrban,4,1.2,308,2/8/2022,July,Pinnacles National Park
+Pina 16,Pina,0.06,1.28,21.33333333,2.47,0.056,0.005,NonUrban,4,1.6,494,2/8/2022,July,Pinnacles National Park
+Pina 2,Pina,0.13,0.45,3.461538462,2.66,0.065,0.007,NonUrban,4,2.1,380,2/8/2022,July,Pinnacles National Park
+Pina 20,Pina,0.15,3.88,25.86666667,1.38,0.052,0.005,NonUrban,4,2.2,276,2/8/2022,July,Pinnacles National Park
+Pina 22,Pina,0.07,2.57,36.71428571,0.81,0.04,0.005,NonUrban,4,1.8,162,2/8/2022,July,Pinnacles National Park
+Pina 23,Pina,0.03,1.57,52.33333333,1.34,0.064,0.006,NonUrban,4,1.9,223.3333333,2/8/2022,July,Pinnacles National Park
+Pina 27,Pina,0.03,1.77,59,1.7,0.044,0.006,NonUrban,4,1.9,283.3333333,2/8/2022,July,Pinnacles National Park
+Pina 29,Pina,0.55,1.48,2.690909091,2.78,0.089,0.009,NonUrban,4,2,308.8888889,2/8/2022,July,Pinnacles National Park
+Pina 3,Pina,NA,NA,NA,1.3,0.042,0.004,NonUrban,4,1.7,325,2/8/2022,July,Pinnacles National Park
+Pina 4,Pina,0.01,0.3,30,1.4,0.032,0.004,NonUrban,4,1.1,350,2/22/2022,July,Pinnacles National Park
+Pina 5,Pina,0.29,0.39,1.344827586,2.17,0.058,0.005,NonUrban,4,1.1,434,2/8/2022,July,Pinnacles National Park
+Pina 6,Pina,0.27,0.67,2.481481481,2.38,0.051,0.007,NonUrban,4,2.2,340,2/8/2022,July,Pinnacles National Park
+Pina 8,Pina,0.05,0.83,16.6,0.73,0.023,0.003,NonUrban,4,1.6,243.3333333,2/8/2022,July,Pinnacles National Park
+Pina 9,Pina,0.3,2.29,7.633333333,3.61,0.124,0.012,NonUrban,4,3.2,300.8333333,2/8/2022,July,Pinnacles National Park
+Dark 1,Dark,0.2,1.25,6.25,2.48,0.088,0.006,NonUrban,3,2.3,413.3333333,2/21/2022,June,Rattlesnake Canyon
+Dark 10,Dark,0.09,1.1,12.22222222,1.77,0.046,0.005,NonUrban,3,1.5,354,2/21/2022,June,Rattlesnake Canyon
+Dark 12,Dark,0.03,0.44,14.66666667,1.35,0.045,0.003,NonUrban,3,0.9,450,2/21/2022,June,Rattlesnake Canyon
+Dark 16,Dark,0.11,1.41,12.81818182,2.49,0.131,0.007,NonUrban,3,2,355.7142857,2/21/2022,June,Rattlesnake Canyon
+Dark 18,Dark,0.2,1.33,6.65,2.7,0.057,0.007,NonUrban,3,1.6,385.7142857,2/21/2022,June,Rattlesnake Canyon
+Dark 19,Dark,0.08,1.03,12.875,1.22,0.062,0.003,NonUrban,3,1.8,406.6666667,2/21/2022,June,Rattlesnake Canyon
+Dark 22,Dark,0.02,1.28,64,1.53,0.036,0.004,NonUrban,3,1,382.5,2/21/2022,June,Rattlesnake Canyon
+Dark 24,Dark,0.2,1.01,5.05,2.24,0.056,0.007,NonUrban,3,2,320,2/21/2022,June,Rattlesnake Canyon
+Dark 26,Dark,0.01,0.1,10,0.61,0.011,0.001,NonUrban,3,0.8,610,2/21/2022,June,Rattlesnake Canyon
+Dark 27,Dark,0.16,1.03,6.4375,2.25,0.072,0.005,NonUrban,3,1.9,450,2/21/2022,June,Rattlesnake Canyon
+Dark 3,Dark,0.02,0.04,2,0.85,0.02,0.002,NonUrban,3,0.9,425,2/21/2022,June,Rattlesnake Canyon
+Dark 31,Dark,0.07,1.25,17.85714286,1,0.034,0.003,NonUrban,3,1.8,333.3333333,2/21/2022,June,Rattlesnake Canyon
+Dark 4,Dark,0.04,0.74,18.5,0.85,0.022,0.002,NonUrban,3,0.9,425,2/21/2022,June,Rattlesnake Canyon
+Dark 7,Dark,0.03,0.34,11.33333333,1.09,0.043,0.003,NonUrban,3,1,363.3333333,2/21/2022,June,Rattlesnake Canyon
+Dark 8,Dark,0.12,0.73,6.083333333,1.08,0.05,0.004,NonUrban,3,1.8,270,2/21/2022,June,Rattlesnake Canyon
+Ranch 1,Ranch,0.03,0.59,19.66666667,2.01,0.045,0.004,NonUrban,5,1.2,502.5,2/7/2022,June,Reagan Ranch
+Ranch 10,Ranch,0.08,3.51,43.875,2.82,0.053,0.005,NonUrban,5,2,564,2/7/2022,June,Reagan Ranch
+Ranch 12,Ranch,0.02,0.35,17.5,1.25,0.037,0.004,NonUrban,5,0.9,312.5,2/7/2022,June,Reagan Ranch
+Ranch 14,Ranch,0.05,1.24,24.8,2.59,0.053,0.006,NonUrban,5,1.4,431.6666667,2/7/2022,June,Reagan Ranch
+Ranch 17,Ranch,0.06,0.88,14.66666667,3.28,0.059,0.006,NonUrban,5,1.3,546.6666667,2/7/2022,June,Reagan Ranch
+Ranch 22,Ranch,0.07,1.58,22.57142857,5.51,0.135,0.014,NonUrban,5,1.4,393.5714286,2/7/2022,June,Reagan Ranch
+Ranch 24,Ranch,0.08,1.9,23.75,2.15,0.057,0.006,NonUrban,5,1.5,358.3333333,2/7/2022,June,Reagan Ranch
+Ranch 3,Ranch,0.02,1.25,62.5,2.88,0.06,0.007,NonUrban,5,1.2,411.4285714,2/7/2022,June,Reagan Ranch
+Ranch 8,Ranch,0.08,0.79,9.875,2.9,0.05,0.006,NonUrban,5,1.6,483.3333333,2/7/2022,June,Reagan Ranch
+Ranch 9,Ranch,0.02,0.47,23.5,2.76,0.062,0.006,NonUrban,5,1.6,460,2/7/2022,June,Reagan Ranch
+Sand 1,Sand,0.09,1.09,12.11111111,2.2,0.083,0.006,NonUrban,5,1,366.6666667,2/8/2022,June,Sandstone Peak
+Sand 12,Sand,0.03,0.48,16,NA,NA,NA,NonUrban,5,1.3,,,June,Sandstone Peak
+Sand 15,Sand,0.09,0.58,6.444444444,2.11,0.062,0.004,NonUrban,5,1.6,527.5,2/8/2022,June,Sandstone Peak
+Sand 16s2,Sand,0.03,0.29,9.666666667,1.38,0.047,0.003,NonUrban,5,1.8,460,2/8/2022,June,Sandstone Peak
+Sand 17,Sand,0.08,0.45,5.625,2.96,0.072,0.005,NonUrban,5,1.7,592,2/8/2022,June,Sandstone Peak
+Sand 2,Sand,0.01,0.18,18,1.37,0.036,0.003,NonUrban,5,1,456.6666667,2/8/2022,June,Sandstone Peak
+Sand 20,Sand,0.11,0.47,4.272727273,3.18,0.092,0.008,NonUrban,5,1.2,397.5,2/8/2022,June,Sandstone Peak
+Sand 21,Sand,0.14,0.64,4.571428571,2.27,0.066,0.005,NonUrban,5,1.5,454,2/8/2022,June,Sandstone Peak
+Sand 22,Sand,0.05,0.37,7.4,1.18,0.037,0.003,NonUrban,5,1.1,393.3333333,2/8/2022,June,Sandstone Peak
+Sand 26,Sand,0.03,0.43,14.33333333,NA,NA,NA,NonUrban,5,1.6,,,June,Sandstone Peak
+Sand 27,Sand,0.19,0.96,5.052631579,1.57,0.05,0.004,NonUrban,5,1.9,392.5,2/8/2022,June,Sandstone Peak
+Sand 28,Sand,0.17,1.11,6.529411765,1.66,0.104,0.006,NonUrban,5,2,276.6666667,2/8/2022,June,Sandstone Peak
+Sand 29,Sand,0.02,0.21,10.5,1.24,0.037,0.002,NonUrban,5,1.5,620,2/8/2022,June,Sandstone Peak
+Sand 30,Sand,0.02,0.25,12.5,NA,NA,NA,NonUrban,5,1,,,June,Sandstone Peak
+Sand 5,Sand,0.11,1,9.090909091,1.82,0.055,0.004,NonUrban,5,1.8,455,2/8/2022,June,Sandstone Peak
+Sand 6,Sand,0.07,0.65,9.285714286,1.77,0.049,0.004,NonUrban,5,1.7,442.5,2/8/2022,June,Sandstone Peak
+Lobos 1,Lobos,0.07,0.56,8,2.59,0.057,0.008,NonUrban,3,2.2,323.75,2/22/2022,July,Santa Cruz
+Lobos 2,Lobos,0.1,0.42,4.2,3.21,0.078,0.008,NonUrban,3,1.5,401.25,2/22/2022,July,Santa Cruz
+Lobos 3,Lobos,0.13,0.79,6.076923077,2.81,0.066,0.008,NonUrban,3,1.9,351.25,2/22/2022,July,Santa Cruz
+Lobos 4,Lobos,0.05,0.65,13,1.98,0.052,0.005,NonUrban,3,1.2,396,2/22/2022,July,Santa Cruz
+Lobos 5,Lobos,0.05,0.71,14.2,1.47,0.035,0.004,NonUrban,3,1.8,367.5,2/22/2022,July,Santa Cruz
+Lobos 7,Lobos,0.07,0.36,5.142857143,1.92,0.04,0.004,NonUrban,3,1.7,480,2/22/2022,July,Santa Cruz
+Lobos 8,Lobos,0.01,0.17,17,0.97,0.021,0.003,NonUrban,3,1.3,323.3333333,2/22/2022,July,Santa Cruz
+Tuna 3,Tuna,0.11,0.43,3.909090909,0.69,0.018,0.003,NonUrban,NA,2,230,2/22/2022,July,Santa Cruz Island
+Tuna 4,Tuna,0.01,0.08,8,0.88,0.018,0.002,NonUrban,NA,1,440,2/22/2022,July,Santa Cruz Island
+Tuna 5,Tuna,0.04,0.91,22.75,2.55,0.054,0.005,NonUrban,NA,1.5,510,2/22/2022,July,Santa Cruz Island
+Tuna 8,Tuna,0.03,0.32,10.66666667,1.1,0.03,0.003,NonUrban,NA,1.1,366.6666667,2/22/2022,July,Santa Cruz Island
+Long 1,Long,0.07,0.7,10,3.31,0.07,0.008,NonUrban,3,1.3,413.75,2/7/2022,July,Sierra Azul
+Long 14,Long,0.13,1.25,9.615384615,2.16,0.044,0.006,NonUrban,3,1.1,360,2/7/2022,July,Sierra Azul
+Long 16,Long,0.06,0.74,12.33333333,2.68,0.058,0.006,NonUrban,3,1.9,446.6666667,2/7/2022,July,Sierra Azul
+Long 17,Long,0.03,0.11,3.666666667,3.09,0.052,0.005,NonUrban,3,1.1,618,2/7/2022,July,Sierra Azul
+Long 23 s2,Long,NA,NA,NA,4.59,0.106,0.011,NonUrban,3,1.9,417.2727273,2/7/2022,July,Sierra Azul
+Long 24,Long,0.15,0.97,6.466666667,1.93,0.04,0.003,NonUrban,3,1,643.3333333,2/7/2022,July,Sierra Azul
+Long 26,Long,0.2,1.4,7,2.58,0.054,0.007,NonUrban,3,1.7,368.5714286,2/7/2022,July,Sierra Azul
+Long 27,Long,0.01,0.66,66,2.47,0.042,0.004,NonUrban,3,1.2,617.5,2/7/2022,July,Sierra Azul
+Long 29,Long,0.08,1.11,13.875,2.24,0.044,0.005,NonUrban,3,1.2,448,2/7/2022,July,Sierra Azul
+Long 3,Long,0.11,1.73,15.72727273,2.84,0.072,0.009,NonUrban,3,1.6,315.5555556,2/7/2022,July,Sierra Azul
+Long 4,Long,0.13,7.92,60.92307692,1.66,0.03,0.004,NonUrban,3,1.6,415,2/7/2022,July,Sierra Azul
+Long 5,Long,0.04,1.56,39,1.12,0.024,0.002,NonUrban,3,1,560,2/7/2022,July,Sierra Azul
+Long 6,Long,0.21,1.51,7.19047619,2.02,0.053,0.006,NonUrban,3,1.5,336.6666667,2/7/2022,July,Sierra Azul
+Long 7,Long,0.08,1.1,13.75,1.6,0.044,0.004,NonUrban,3,1.3,400,2/7/2022,July,Sierra Azul
+Long 8,Long,0.07,1.76,25.14285714,2.35,0.047,0.006,NonUrban,3,1.3,391.6666667,2/7/2022,July,Sierra Azul
+Garden 11,Garden,0.02,0.8,40,1.03,0.024,0.003,Urban,3,1.1,343.3333333,2/22/2022,July,UC Santa Cruz
+Garden 13,Garden,0.1,0.94,9.4,1.19,0.03,0.003,Urban,3,1.5,396.6666667,2/22/2022,July,UC Santa Cruz
+Garden 14,Garden,0.13,1.05,8.076923077,2.07,0.063,0.005,Urban,3,1.5,414,2/22/2022,July,UC Santa Cruz
+Garden 15,Garden,0.03,0.26,8.666666667,1.59,0.041,0.003,Urban,3,0.9,530,2/22/2022,July,UC Santa Cruz
+Garden 2,Garden,0.14,2.15,15.35714286,2.96,0.074,0.008,Urban,3,1.3,370,2/22/2022,July,UC Santa Cruz
+Garden 20,Garden,0.09,0.7,7.777777778,2.02,0.051,0.004,Urban,3,1.2,505,2/22/2022,July,UC Santa Cruz
+Garden 24,Garden,0.09,0.86,9.555555556,3.63,0.118,0.01,Urban,3,1.5,363,2/22/2022,July,UC Santa Cruz
+Garden 25,Garden,0.1,0.78,7.8,1.41,0.041,0.005,Urban,3,1.6,282,2/22/2022,July,UC Santa Cruz
+Garden 6,Garden,0.14,1.07,7.642857143,3.89,0.084,0.009,Urban,3,1.4,432.2222222,2/22/2022,July,UC Santa Cruz
+Garden 9,Garden,0.04,0.79,19.75,0.93,0.028,0.002,Urban,3,1.1,465,2/22/2022,July,UC Santa Cruz
+Garden 1,Garden,0.03,0.47,15.66666667,1.2,0.053,0.003,Urban,3,1.1,400,2/22/2022,July,UC Santa Cruz
